@@ -8,8 +8,8 @@ You only need to install R to run the code. for example:
 ```
 sudo apt-get install r-base
 ```
-after cloning the repo, run script.r using R, it will produce the hisograms for the files
+after cloning the repo, run script.r using R, it will produce the hisograms in the same directory in .pdf files
 ```
-r script.r
+Rscript script.r
 ```
 that's it!
